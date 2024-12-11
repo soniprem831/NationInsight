@@ -55,7 +55,7 @@ export const Footer=()=>{
                 </li>
                 <li>
                   <NavLink
-                    to="#"
+                    to="https://github.com/soniprem831/NationInsight.git"
                     target="_blank"
                   >
                     Source Code
