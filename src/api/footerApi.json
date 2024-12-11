@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Kolkata,West Bengal"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9163868838"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "premsoniii.1308@gmail.com"
+    }
+]
