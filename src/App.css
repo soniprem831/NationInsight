@@ -572,6 +572,15 @@ contact us Page ends here
   .grid--cols {
     grid-template-columns: 1fr;
   }
+
+  .section-searchFilter{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .select-section{
+    margin-top: 2rem;
+  }
 }
 
 /* //Loader  */
